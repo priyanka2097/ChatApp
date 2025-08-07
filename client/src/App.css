@@ -1,0 +1,17 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    height: 100%;
+  }
+  
+
+@media (max-width: 600px) {
+    .chat-container {
+      height: 100vh;
+      border-radius: 0;
+      box-shadow: none;
+      padding: 8px;
+    }
+  }
+  
